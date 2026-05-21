@@ -14,7 +14,7 @@ Research environment for developing, testing, and evaluating algorithmic trading
 ## Project Structure
 
 ```text
-quant-research/
+Algotradingmodel/
 ├── data/          # Historical datasets
 ├── notebooks/     # Exploratory analysis
 ├── src/
@@ -32,7 +32,7 @@ quant-research/
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/quant-research.git
+git clone https://github.com/billahmed/quant-research.git
 cd quant-research
 ```
 
